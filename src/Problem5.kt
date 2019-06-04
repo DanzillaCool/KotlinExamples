@@ -43,6 +43,3 @@ class Armor(name : String, size : Int, weight : Double, requiredLevel : Int, eff
         this.efficienсy = efficienсy
     }
 }
-
-fun Array<String>.megaSplit(){
-}
